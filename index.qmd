@@ -1,0 +1,22 @@
+---
+title: "David Moreno-Borràs"
+page-layout: full
+title-block-banner: true
+format:
+  html:
+    code-fold: true
+---
+
+## About me
+
+## Research Areas
+
+## Experience
+
+- **UPC-IonSAT**: Ionospheric research and software development. TODO
+- **Microsoft**: Software Engineer II, Office Performance Team. TODO
+- **Instute of Space Sciences (ICE-CSIC)**: Software Engineer, scheduling algorithms. TODO
+
+### Relevant links
+
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=7gicQ2kAAAAJ)

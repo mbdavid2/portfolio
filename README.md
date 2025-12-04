@@ -1,2 +1,5 @@
-# portfolio
-Quarto portfolio
+# Portoflio
+
+```bash
+quarto render
+```

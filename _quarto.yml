@@ -1,0 +1,31 @@
+project:
+  title: "portfolio"
+  output-dir: _site
+  type: website
+
+execute:
+  freeze: true
+
+website:
+  title: "portfolio"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - icon: github
+        href: https://github.com/mbdavid2
+      - icon: google
+        href: https://scholar.google.com/citations?hl=en&user=7gicQ2kAAAAJ
+      - icon: instagram
+        href: https://www.eyeem.com/u/davidmoreno97
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mbdavid2/
+      - icon: facebook
+        href: https://mbdavid2.github.io/dev/images/komoLoZupo.gif
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+
