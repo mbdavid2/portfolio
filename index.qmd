@@ -9,14 +9,31 @@ format:
 
 ## About me
 
+Hello there! I'm David Moreno. I've studied CS at FIB-UPC (Barcelona School Of Informatics) and obtained my Master's in Computer Science at University College Dublin.
+I am very passionate about Computer Science and Space Research. You can check my CV or contact me for more information! Have a nice day :D
+
 ## Research Areas
+
+- Ionospheric research
+- GNSS
+- Space Weather
 
 ## Experience
 
-- **UPC-IonSAT**: Ionospheric research and software development. TODO
-- **Microsoft**: Software Engineer II, Office Performance Team. TODO
-- **Instute of Space Sciences (ICE-CSIC)**: Software Engineer, scheduling algorithms. TODO
+- **UPC-IonSAT**: Ionospheric research and software development. 
+
+  Developing algorithms for global ionospheric tomography used for precise positioning and space weather estimation.
+
+- **Microsoft**: Software Engineer II, Office Performance Team.
+
+  Development and maintenance of the Office Suite (Word, Excel, PowerPoint...), focusing on detecting areas where
+  performance could be improved
+
+- **Instute of Space Sciences (ICE-CSIC)**: Software Engineer. 
+
+  Developed an AI scheduling framework used by different ground (Telescopi Joan Oró (TJO) telescope, Cherenkov Telescope Array, European Southern Observatory, ESO) and space (ARIEL-ESA) based observatories
 
 ### Relevant links
 
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=7gicQ2kAAAAJ)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=7gicQ2kAAAAJ){target="_blank"}
+- [CV](documents/CV_david_moreno.pdf){target="_blank"}

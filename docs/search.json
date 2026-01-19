@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "David Moreno-Borràs",
+    "section": "",
+    "text": "Hello there! I’m David Moreno. I’ve studied CS at FIB-UPC (Barcelona School Of Informatics) and obtained my Master’s in Computer Science at University College Dublin. I am very passionate about Computer Science and Space Research. You can check my CV or contact me for more information! Have a nice day :D"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "David Moreno-Borràs",
+    "section": "",
+    "text": "Hello there! I’m David Moreno. I’ve studied CS at FIB-UPC (Barcelona School Of Informatics) and obtained my Master’s in Computer Science at University College Dublin. I am very passionate about Computer Science and Space Research. You can check my CV or contact me for more information! Have a nice day :D"
+  },
+  {
+    "objectID": "index.html#research-areas",
+    "href": "index.html#research-areas",
+    "title": "David Moreno-Borràs",
+    "section": "Research Areas",
+    "text": "Research Areas\n\nIonospheric research\nGNSS\nSpace Weather"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "David Moreno-Borràs",
+    "section": "Experience",
+    "text": "Experience\n\nUPC-IonSAT: Ionospheric research and software development.\nDeveloping algorithms for global ionospheric tomography used for precise positioning and space weather estimation.\nMicrosoft: Software Engineer II, Office Performance Team.\nDevelopment and maintenance of the Office Suite (Word, Excel, PowerPoint…), focusing on detecting areas where performance could be improved\nInstute of Space Sciences (ICE-CSIC): Software Engineer.\nDeveloped an AI scheduling framework used by different ground (Telescopi Joan Oró (TJO) telescope, Cherenkov Telescope Array, European Southern Observatory, ESO) and space (ARIEL-ESA) based observatories\n\n\nRelevant links\n\nGoogle Scholar\nCV"
+  }
+]
