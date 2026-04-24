@@ -10,7 +10,8 @@ format:
 ## About me
 
 Hello there! I'm David Moreno. I've studied CS at FIB-UPC (Barcelona School Of Informatics) and obtained my Master's in Computer Science at University College Dublin.
-I am very passionate about Computer Science and Space Research. You can check my CV or contact me for more information! Have a nice day :D
+I am very passionate about Computer Science and Space Research. I'm currently pursuing my PhD in the field of GNSS Astronomy and Ionospheric determination.
+You can check my CV or contact me for more information! Have a nice day :D
 
 ## Research Areas
 
